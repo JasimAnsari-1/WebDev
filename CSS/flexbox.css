@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-evenly; */
+    /* justify-content: space-around; */
+}
+
+.box-1{
+    height: 400px;
+    width: 400px;
+    border: 2px solid red;
+    font-size: 20px;
+    text-align: center;
+}
+.box-2{
+    height: 400px;
+    width: 400px;
+    border: 2px solid red;
+    font-size: 20px;
+    text-align: center;
+}
+.box-3{
+    height: 400px;
+    width: 400px;
+    border: 2px solid red;
+    font-size: 20px;
+    text-align: center;
+}

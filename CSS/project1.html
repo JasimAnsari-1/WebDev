@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project-1</title>
+    <style>
+        .box{
+            height: 400px;
+            width: 400px;
+            border: 2px solid grey;
+            margin: auto;
+            position: relative;
+            margin-top: 100px;
+        }
+        .button1{
+            width: 100%;
+            font-size: 25px;
+            background-color: rgba(0, 0, 0,0.6);
+            color: white;
+            position: absolute;
+            left: 0;
+            bottom: -40px;
+            opacity: 0;
+            transition: 3s;
+        }
+        .box:hover .button1{
+            bottom: 0px;
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <img src="/Asset/image.3.jpg" alt="" height="100%" width="100%">
+        <input type="button" name="" value="Add To Cart" class="button1">
+    </div>
+</body>
+</html>
