@@ -34,5 +34,5 @@
 // let text = "I am learn coding";
 // console.log(text.replace("coding","development"));
 
-let text = "done ";
-console.log(text.repeat(10));
+// let text = "done ";
+// console.log(text.repeat(10));
