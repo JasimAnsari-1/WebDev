@@ -84,5 +84,31 @@
 // let arr = ['Mango','Apple','Banana','Cherry'];
 // console.log(arr.sort());
 
-let arr = [1,10,25,4,2,6]
-console.log(arr.sort((a,b)=>a-b));
+// let arr = [1,10,25,4,2,6]
+// console.log(arr.sort((a,b)=>a-b));
+
+
+
+
+//array refrences
+// let arr1 = [1,2,3,4];
+// let arr2 = [1,2,3,4];
+// console.log(arr1 === arr2);              //false
+// console.log(arr1[0]===arr2[0]);         //true
+// console.log(arr1[1]===arr2[1]);         //true
+
+
+
+
+// let arr = [[2,3],[1,4],[4,6]];
+// console.log(arr.length);
+// console.log(arr[0].length);
+// console.log(arr[1].length);
+
+
+
+
+// let tic_tac = [['x','null','0'],['x','null','0'],['x','null','0']];
+// console.log(tic_tac);
+
+
