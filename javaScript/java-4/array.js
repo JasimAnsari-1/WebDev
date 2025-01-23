@@ -54,3 +54,35 @@
 // console.log(fruits.includes('orange'));
 
 
+
+
+// let color1 = ['red','blue','green','yellow'];
+// let color2 = ['white','black','brown'];
+// console.log(color1.concat(color2));
+// console.log(color1.reverse())
+// console.log(color2.concat(color1));
+// console.log(color1.concat(color2).reverse());
+
+
+
+// let arr = [23,56,87,32,75,13];
+// console.log(arr.slice(2));
+// console.log(arr.slice(2,4));
+
+
+
+
+// let array = [1,2,3,4,5];
+// console.log(array.splice(1,2));          //[3,4]
+// console.log(array.splice(1,0,6,7));   //[]
+// console.log(array.splice(1,2,5,6,7));    //2,3
+
+
+
+
+
+// let arr = ['Mango','Apple','Banana','Cherry'];
+// console.log(arr.sort());
+
+let arr = [1,10,25,4,2,6]
+console.log(arr.sort((a,b)=>a-b));
