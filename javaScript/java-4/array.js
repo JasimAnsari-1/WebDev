@@ -39,3 +39,18 @@
 
 
 
+// let fruits = ['apple','banana','mango'];
+// console.log(fruits.indexOf('apple'));
+// console.log(fruits.indexOf('mango'));
+// console.log(`apple: ${fruits.indexOf('apple')},banana: ${fruits.indexOf('banana')}`);
+
+
+// let arr = [2,1,4,3,6,9,0,1,7,1];
+// console.log(`${arr.indexOf(1,2)}`);
+
+
+// let fruits = ['banana','oranges','apples','mango'];
+// console.log(fruits.includes('apples'));
+// console.log(fruits.includes('orange'));
+
+
