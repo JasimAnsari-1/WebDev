@@ -31,4 +31,22 @@
 
 
 
+// function printmul(a,b){
+//     return a*b;
+// }
+// console.log(printmul(12,13));
+
+
+
+// check the student is adult or not
+// function student(age){
+//     if(age>=18){
+//         return "student is adult";
+//     }else{
+//         return "student is not adult";
+//     }
+// }
+// console.log(student(11));
+
+
 
