@@ -50,3 +50,58 @@
 
 
 
+
+
+
+//global scope
+// let global_variable = "global variable can access from anywhere";
+
+// function check_global_variables(){
+//     console.log(global_variable);
+// }
+// // console.log(global_variable);
+// check_global_variables();
+
+
+//function scope
+// function check(){
+//     let var1 = "ABC";
+//     let var2 = "DEF";
+//     console.log(var1);
+// }
+// check();
+// console.log(var2);                   //error var2 is not de3fined
+
+
+
+//block scope
+// {   
+//     var variable_1 = "ABC";        //var donot have block scope
+//     const variable_2 = "DEF";
+//     let x=2;
+//     x*=2;
+//     console.log(x);
+//     console.log(variable_2);
+// }
+// console.log(variable_1);
+
+
+// {   
+//     let variable_1 = "ABC";        
+//     const variable_2 = "DEF";
+//     let x=2;
+//     x*=2;
+//     console.log(x);
+//     console.log(variable_2);
+// }
+// console.log(variable_1);      // error variable_1 is not defined
+
+
+// const sum = function(a,b){
+    // return a+b;
+// }
+// console.log(sum(22,45));
+
+
+
+
