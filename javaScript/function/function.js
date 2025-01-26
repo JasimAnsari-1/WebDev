@@ -105,3 +105,42 @@
 
 
 
+//Higher order function
+
+// function add(a,b,ab){
+//     let result = a+b;
+//     ab(result);
+// }
+// add(21,14,function(val){
+//     console.log(val);
+// });
+
+
+// function table(n,callback){
+//     for(let i=1;i<=10;i++){
+//         let result = n*i;
+//         callback(result);
+//     }
+// }
+// table(5,function(mul){
+//     console.log(mul);
+// });
+
+
+// function oddEven(n,callback){
+//     if(n%2==0){
+//         let result = "even";
+//         callback(result);
+//     }else{
+//         let result = "odd";
+//         callback(result);
+//     }
+// }
+// oddEven(54,function(verified){
+//     console.log(verified);
+// });
+
+
+
+
+
