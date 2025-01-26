@@ -144,12 +144,3 @@
 
 
 
-function table(n,callback){
-    for(let i=2;i<=20;i+=2){
-        let result = n*i;
-        callback(result);
-    }
-}
-table(5,function(mul){
-    console.log(mul);
-});
