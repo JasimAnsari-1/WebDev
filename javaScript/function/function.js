@@ -246,3 +246,11 @@
 // arr.forEach(function(student){
 //     console.log(`name: ${student.stu_name},roll: ${student.roll},mark: ${student.mark}`)
 // })
+
+
+// const a = [1, 2, 3, 4];
+
+// // Use map to create a new array with elements doubled
+// const b = a.map(x => x * 2);
+
+// console.log(b);
