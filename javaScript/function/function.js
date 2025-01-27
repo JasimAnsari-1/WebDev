@@ -143,4 +143,106 @@
 
 
 
+//this keyword
+// function show(){
+//     console.log(this)          //in browser this will log the window object
+// }
+// show();
 
+
+
+// const person = {
+//     stu_name: "jas",
+//     greet: function(){
+//         console.log(this.stu_name);
+//     }
+// };
+// person.greet();
+
+
+
+//arrow function
+
+// hello = ()=>{
+//     return"hello world";
+// }
+// console.log(hello());
+
+
+// const add = (a,b)=>a+b;
+// console.log(add(2,3));
+
+
+
+// oddEven = (n) =>{
+//     if(n%2==0){
+//         return"even";
+//     }else{
+//         return"odd";
+//     }
+// }
+// const n =  parseInt(prompt("enter the number"));
+// console.log(oddEven(n));
+
+
+
+
+//this keyword in arrow function
+// const person = {
+//     name:"jas",
+//     sayName:()=>{
+//         console.log(this.name);         //not print anything
+//     }
+// }
+// person.sayName();
+
+
+
+
+// setTimeout(()=> {
+//     console.log('Hello, world!');
+// }, 5000);
+
+
+//forEach
+// const fruits = ['apple','banana','mango','guava'];
+// fruits.forEach(function(fruit){
+//     console.log(fruit);
+// })
+
+
+// const num = [1,2,3,4,5];
+// num.forEach(function(num){
+//     console.log(num*2);
+// });
+
+
+
+// const country = ["india","pakistan","bangladesh","srilanka"];
+// country.forEach(function(country){
+//     console.log(country.toUpperCase());
+// });
+
+
+
+// array with object
+// let arr = [
+//     {
+//         stu_name: "jas",
+//         roll: 101,
+//         mark:37
+//     },
+//     {
+//         stu_name: "john",
+//         roll: 102,
+//         mark:36
+//     },
+//     {
+//         stu_name: "sam",
+//         roll: 103,
+//         mark:39
+//     },
+// ];
+// arr.forEach(function(student){
+//     console.log(`name: ${student.stu_name},roll: ${student.roll},mark: ${student.mark}`)
+// })
