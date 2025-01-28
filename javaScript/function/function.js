@@ -254,3 +254,29 @@
 // const b = a.map(x => x * 2);
 
 // console.log(b);
+
+
+
+// filter method
+// function canVote(age) {
+//     return age >= 18;
+// }
+
+// let filtered = [24, 33, 16, 40].filter(canVote);
+// console.log(filtered);
+
+
+
+// function evenNumber(num){
+//     if(num%2==0){
+//         console.log(num)
+//     }
+// }
+// const num = [24,45,85,47,56,22,75,38].filter(evenNumber)
+
+
+
+// const num = [24,45,85,47,56,22,75,38].filter(num => num%2==0);
+// console.log(num)
+
+
