@@ -321,6 +321,6 @@
 
 
 
-const a = [2, 4, 6, 10];
-const sum = a.reduce((acc, x) => acc + x, 0);
-console.log(sum);
+// const a = [2, 4, 6, 10];
+// const sum = a.reduce((acc, x) => acc + x, 0);
+// console.log(sum);
