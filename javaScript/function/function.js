@@ -280,4 +280,47 @@
 // console.log(num)
 
 
-j
+
+
+// const numbers = [1,3,5,7];
+// const hasEvenNumber = numbers.some(function(number){
+//     return number%2==0;
+// })
+// console.log(hasEvenNumber);
+
+// const numbers = [1,4,5,7];
+// const hasEvenNumber = numbers.some(function(number){
+//     return number%2==0;
+// })
+// console.log(hasEvenNumber);
+
+
+
+
+
+// const numbers = [1,4,5,7];
+// const hasEvenNumber = numbers.every(function(number){
+//     return number%2==0;
+// })
+// console.log(hasEvenNumber);
+
+
+
+// const numbers = [1,3,5,7];
+// const hasEvenNumber = numbers.some(function(number){
+//     return number%2==0;
+// })
+// console.log(hasEvenNumber);
+
+
+// const numbers = [2,4,6,8];
+// const hasEvenNumber = numbers.some(function(number){
+//     return number%2==0;
+// })
+// console.log(hasEvenNumber);
+
+
+
+const a = [2, 4, 6, 10];
+const sum = a.reduce((acc, x) => acc + x, 0);
+console.log(sum);
