@@ -33,11 +33,10 @@
 // }
 
 
-function changeStyle(){
-    let para = document.getElementsByTagName("p");
-    for(let i=0;i<para.length;i++){
-        para[i].style.color="blue";
-        para[i].style.backgroundColor="pink";
-        para[i].style.fontFamily = "arial";
-}
-}
+// function changeStyle(){
+//     let para = document.getElementsByTagName("p");
+//     for(let i=0;i<para.length;i++){
+//         para[i].style.color="blue";
+//         para[i].style.backgroundColor="pink";
+//         para[i].style.fontFamily = "arial";
+// }}
