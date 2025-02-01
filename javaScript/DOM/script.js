@@ -42,3 +42,11 @@
 
 
 
+// let h1 = document.querySelector('h1');
+// document.createElement('h1');
+// let newH1 = document.createElement('h1');
+// console.dir(newH1);
+// console.log(newH1.innerText="Jaz");
+
+
+
