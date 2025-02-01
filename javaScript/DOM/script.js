@@ -1,11 +1,11 @@
 //element get by id 
-// let para = document.getElementById("para");
+// let para = document.getElementById("#para");
 // para.innerHTML = "Hello";
 
 
 
 // element get by className
-// let boxes = document.getElementsByClassName("box");
+// let boxes = document.getElementsByClassName(".box");
 // for(let i=0;i<boxes.length;i++){
 //     boxes[i].style.backgroundColor = "yellow"
 // }
@@ -29,3 +29,16 @@
 // for(let i=0;i<paragraph.length;i++){
 //     paragraph[i].innerHTML = "Hello";
 // }
+
+
+
+// let heading1 = document.getElementById("h1");
+// heading1.innerHTML = "<i>apple</i>";
+
+
+
+// let img = document.querySelector('img');
+// img.setAttribute('src','/asset/image1.jpg');
+
+
+
