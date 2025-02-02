@@ -50,3 +50,29 @@
 
 
 
+//Dom Events
+// let btn = document.querySelector("button")
+// function btn1(){
+//     btn.style.backgroundColor = "blue";
+// }
+
+
+// let btn_2 = document.querySelector("button")
+// function btn2(){
+//     btn_2.style.backgroundColor = "yellow";
+// }
+
+
+
+
+// let btn = document.querySelector('button');
+// btn.onclick = function(){
+//     alert("button clicked")
+// }
+
+
+
+// let btn = document.querySelector("button");
+// btn.addEventListener('dblclick',function(){
+//     alert('saved')
+// })
