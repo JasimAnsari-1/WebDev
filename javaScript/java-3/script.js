@@ -29,6 +29,15 @@
 // console.log(text.slice(-6));
 // console.log(text.slice(-7,-1));
 
+// let n = prompt("enter the number");
+// for (let i = 1; i <= 10; ++i){
+//     if(i===5){
+//         continue;
+//     }
+//     console.log(n*i);
+// }
+
+
 
 
 // let text = "I am learn coding";
