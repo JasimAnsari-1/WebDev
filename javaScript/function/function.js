@@ -248,12 +248,12 @@
 // })
 
 
-const a = [1, 2, 3, 4];
+// const a = [1, 2, 3, 4];
 
 // // Use map to create a new array with elements doubled
-const b = a.map(x => x * 20);
+// const b = a.map(x => x * 20);
 
-console.log(b);
+// console.log(b);
 
 
 
