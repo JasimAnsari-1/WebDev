@@ -4,4 +4,10 @@ btn1.onclick = ()=>{
     let a = 25;
     a++;
     console.log(a)
-}
+};
+
+let box = document.querySelector("#box1");
+box.onmouseover = ()=>{
+    box.style.backgroundColor = "red"
+};
+
