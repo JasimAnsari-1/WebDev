@@ -51,3 +51,49 @@
     
 
 
+// class Parent {
+//     hello(){
+//         console.log("hello");
+//     }
+// }
+// class Child extends Parent {}
+// let obj = new Child();
+
+
+
+
+// class Person {
+//     eat() {
+//         console.log("eat");
+//     }
+//     sleep() {
+//         console.log("sleep")
+//     }
+// }
+// class Engineer extends Person {
+//     work(){
+//         console.log("build something")
+//     }
+// }
+
+// let Jasim = new Engineer();
+
+
+
+// class User{
+//     constructor(name,email){
+//         this.name = name;
+//         this.email = email;
+//     }
+
+//     viewData(){
+//         console.log("Website data")
+//     }
+// }
+
+// let student1 = new User("jasim","abc@email.com")
+// let student2 = new User("Monal","abcd@gmail.com")
+
+
+
+
